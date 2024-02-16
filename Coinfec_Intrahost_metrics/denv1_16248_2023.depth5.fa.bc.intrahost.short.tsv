@@ -1,0 +1,9 @@
+GENOME	POS	REGION	DEPTH	MAJOR	MINOR	MAJOR_DEPTH	MINOR_DEPTH	FREQUENCY
+denv1_16248_2023	357	anchored capsid protein	647	G	A	467	179	0.28
+denv1_16248_2023	1791	envelope protein	1161	C	T	1036	125	0.11
+denv1_16248_2023	2871	nonstructural protein NS1	606	T	C	488	118	0.19
+denv1_16248_2023	3956	nonstructural protein NS2A	1293	C	T	1190	103	0.08
+denv1_16248_2023	4377	nonstructural protein NS2B	1209	G	A	1088	119	0.10
+denv1_16248_2023	8483	nonstructural protein NS5	1028	G	A	913	115	0.11
+denv1_16248_2023	8680	nonstructural protein NS5	1018	G	-	777	226	0.22
+denv1_16248_2023	8681	nonstructural protein NS5	1032	C	A	798	234	0.23

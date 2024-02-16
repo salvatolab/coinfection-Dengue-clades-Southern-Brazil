@@ -1,0 +1,13 @@
+GENOME	POS	REGION	DEPTH	MAJOR	MINOR	MAJOR_DEPTH	MINOR_DEPTH	FREQUENCY
+denv2_16248_2023	895	membrane glycoprotein precursor prM	1159	T	TCC	1158	1156	1.00
+denv2_16248_2023	1407	envelope protein E	1783	A	G	1483	292	0.16
+denv2_16248_2023	1410	envelope protein E	1779	C	T	1169	609	0.34
+denv2_16248_2023	1576	envelope protein E	828	T	C	637	191	0.23
+denv2_16248_2023	2022	envelope protein E	1304	C	T	1095	206	0.16
+denv2_16248_2023	2289	envelope protein E	3669	T	C	3204	464	0.13
+denv2_16248_2023	3201	nonstructural protein NS1	796	C	T	612	184	0.23
+denv2_16248_2023	7524	nonstructural protein NS4B	652	C	T	417	234	0.36
+denv2_16248_2023	8181	RNA-dependent RNA polymerase NS5	2711	T	C	2494	202	0.07
+denv2_16248_2023	8184	RNA-dependent RNA polymerase NS5	2705	G	A	2557	147	0.05
+denv2_16248_2023	8413	RNA-dependent RNA polymerase NS5	2077	G	GA	1921	144	0.07
+denv2_16248_2023	9753	RNA-dependent RNA polymerase NS5	608	T	C	432	176	0.29

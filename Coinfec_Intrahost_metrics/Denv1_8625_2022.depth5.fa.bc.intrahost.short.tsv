@@ -1,0 +1,213 @@
+GENOME	POS	REGION	DEPTH	MAJOR	MINOR	MAJOR_DEPTH	MINOR_DEPTH	FREQUENCY
+Denv1_8625_2022	357	anchored capsid protein	4097	A	G	2371	1721	0.42
+Denv1_8625_2022	407	anchored capsid protein	8002	T	C	5803	2197	0.27
+Denv1_8625_2022	417	membrane glycoprotein precursor	8001	C	T	5802	2198	0.27
+Denv1_8625_2022	489	membrane glycoprotein precursor	7996	C	T	5651	2341	0.29
+Denv1_8625_2022	501	membrane glycoprotein precursor	6808	A	G	5949	858	0.13
+Denv1_8625_2022	504	membrane glycoprotein precursor	6176	T	C	5167	1007	0.16
+Denv1_8625_2022	519	membrane glycoprotein precursor	7001	T	C	4825	2108	0.30
+Denv1_8625_2022	546	membrane glycoprotein precursor	7999	G	A	5328	2669	0.33
+Denv1_8625_2022	573	membrane glycoprotein precursor	7986	T	C	5511	2468	0.31
+Denv1_8625_2022	660	membrane glycoprotein precursor	6954	A	G	4826	2125	0.31
+Denv1_8625_2022	681	membrane glycoprotein precursor	6445	T	G	4414	2029	0.31
+Denv1_8625_2022	762	membrane glycoprotein precursor	6588	A	C	4352	2235	0.34
+Denv1_8625_2022	786	membrane glycoprotein precursor	6957	G	A	4275	2682	0.39
+Denv1_8625_2022	789	membrane glycoprotein precursor	6657	C	T	4039	2615	0.39
+Denv1_8625_2022	799	membrane glycoprotein precursor	5107	A	C	4792	310	0.06
+Denv1_8625_2022	825	membrane glycoprotein precursor	4678	C	T	2898	1777	0.38
+Denv1_8625_2022	832	membrane glycoprotein precursor	4553	C	T	2784	1763	0.39
+Denv1_8625_2022	837	membrane glycoprotein precursor	4806	A	G	3077	1729	0.36
+Denv1_8625_2022	864	membrane glycoprotein precursor	5693	G	A	3636	2055	0.36
+Denv1_8625_2022	883	membrane glycoprotein precursor	5569	C	T	3408	2159	0.39
+Denv1_8625_2022	924	envelope protein	6007	G	T	5528	476	0.08
+Denv1_8625_2022	969	envelope protein	5637	A	G	3437	2198	0.39
+Denv1_8625_2022	1016	envelope protein	6180	C	CA	4007	2162	0.35
+Denv1_8625_2022	1048	envelope protein	6512	C	T	4052	2453	0.38
+Denv1_8625_2022	1122	envelope protein	3403	T	C	1984	1419	0.42
+Denv1_8625_2022	1125	envelope protein	3385	C	T	1994	1386	0.41
+Denv1_8625_2022	1182	envelope protein	840	C	T	586	253	0.30
+Denv1_8625_2022	1227	envelope protein	1405	C	T	985	420	0.30
+Denv1_8625_2022	1231	envelope protein	1433	T	C	1000	431	0.30
+Denv1_8625_2022	1242	envelope protein	1457	A	G	1029	428	0.29
+Denv1_8625_2022	1249	envelope protein	1478	T	C	1028	449	0.30
+Denv1_8625_2022	1290	envelope protein	1485	A	G	1035	450	0.30
+Denv1_8625_2022	1380	envelope protein	1426	T	A	983	443	0.31
+Denv1_8625_2022	1419	envelope protein	1442	T	C	1039	403	0.28
+Denv1_8625_2022	1429	envelope protein	1436	A	G	1029	407	0.28
+Denv1_8625_2022	1440	envelope protein	1452	C	T	1041	410	0.28
+Denv1_8625_2022	1459	envelope protein	947	T	C	692	255	0.27
+Denv1_8625_2022	1506	envelope protein	2010	G	A	1143	867	0.43
+Denv1_8625_2022	1533	envelope protein	1662	T	C	1539	123	0.07
+Denv1_8625_2022	1578	envelope protein	2602	G	A	1551	1047	0.40
+Denv1_8625_2022	1591	envelope protein	2648	T	C	1621	1025	0.39
+Denv1_8625_2022	1593	envelope protein	2641	C	T	1620	1020	0.39
+Denv1_8625_2022	1618	envelope protein	2613	C	T	1566	1045	0.40
+Denv1_8625_2022	1661	envelope protein	2117	T	C	1926	191	0.09
+Denv1_8625_2022	1662	envelope protein	2152	G	A	1220	932	0.43
+Denv1_8625_2022	1671	envelope protein	2133	A	G	1198	933	0.44
+Denv1_8625_2022	1698	envelope protein	2501	T	A	1614	886	0.35
+Denv1_8625_2022	1791	envelope protein	2509	T	C	1765	743	0.30
+Denv1_8625_2022	1797	envelope protein	2488	A	G	1737	750	0.30
+Denv1_8625_2022	1824	envelope protein	1591	T	C	1150	440	0.28
+Denv1_8625_2022	2559	nonstructural protein NS1	8000	G	A	6522	1477	0.18
+Denv1_8625_2022	2565	nonstructural protein NS1	7996	A	G	6556	1438	0.18
+Denv1_8625_2022	2576	nonstructural protein NS1	7893	T	C	6536	1355	0.17
+Denv1_8625_2022	2634	nonstructural protein NS1	7998	A	G	6541	1450	0.18
+Denv1_8625_2022	2640	nonstructural protein NS1	7832	A	G	6480	1348	0.17
+Denv1_8625_2022	2676	nonstructural protein NS1	4778	T	C	4191	587	0.12
+Denv1_8625_2022	2700	nonstructural protein NS1	6829	G	A	5353	1476	0.22
+Denv1_8625_2022	2721	nonstructural protein NS1	7954	C	T	6590	1360	0.17
+Denv1_8625_2022	2727	nonstructural protein NS1	7998	G	A	6628	1365	0.17
+Denv1_8625_2022	2736	nonstructural protein NS1	8000	C	T	6601	1392	0.17
+Denv1_8625_2022	2748	nonstructural protein NS1	8001	T	C	6614	1379	0.17
+Denv1_8625_2022	2780	nonstructural protein NS1	7702	C	T	6256	1445	0.19
+Denv1_8625_2022	2796	nonstructural protein NS1	7785	T	C	6462	1315	0.17
+Denv1_8625_2022	2802	nonstructural protein NS1	7874	C	T	5337	2534	0.32
+Denv1_8625_2022	2820	nonstructural protein NS1	5334	C	A	3856	1478	0.28
+Denv1_8625_2022	2829	nonstructural protein NS1	4535	C	T	4093	439	0.10
+Denv1_8625_2022	2832	nonstructural protein NS1	4497	C	T	3350	1146	0.25
+Denv1_8625_2022	2853	nonstructural protein NS1	7262	C	T	6193	1065	0.15
+Denv1_8625_2022	2881	nonstructural protein NS1	7971	A	G	7058	910	0.11
+Denv1_8625_2022	2920	nonstructural protein NS1	7975	C	T	7001	965	0.12
+Denv1_8625_2022	2936	nonstructural protein NS1	5916	A	C	5112	711	0.12
+Denv1_8625_2022	2940	nonstructural protein NS1	5640	T	TC	805	804	0.14
+Denv1_8625_2022	3214	nonstructural protein NS1	6006	C	T	5609	391	0.07
+Denv1_8625_2022	3231	nonstructural protein NS1	5997	C	T	5556	432	0.07
+Denv1_8625_2022	3243	nonstructural protein NS1	6195	C	T	5621	572	0.09
+Denv1_8625_2022	3267	nonstructural protein NS1	6036	T	C	5249	785	0.13
+Denv1_8625_2022	3279	nonstructural protein NS1	5713	A	G	4935	777	0.14
+Denv1_8625_2022	3288	nonstructural protein NS1	5768	T	C	5422	340	0.06
+Denv1_8625_2022	3292	nonstructural protein NS1	5155	A	C	4165	989	0.19
+Denv1_8625_2022	3297	nonstructural protein NS1	5218	T	C	4100	1111	0.21
+Denv1_8625_2022	3349	nonstructural protein NS1	6402	T	C	5154	1244	0.19
+Denv1_8625_2022	3381	nonstructural protein NS1	5953	A	G	4791	1158	0.19
+Denv1_8625_2022	3432	nonstructural protein NS1	6120	G	A	4964	1147	0.19
+Denv1_8625_2022	3435	nonstructural protein NS1	6160	T	C	5012	1145	0.19
+Denv1_8625_2022	3447	nonstructural protein NS1	5782	T	C	4690	1087	0.19
+Denv1_8625_2022	3471	nonstructural protein NS2A	6041	C	T	4974	1063	0.18
+Denv1_8625_2022	3492	nonstructural protein NS2A	6530	A	G	5350	1177	0.18
+Denv1_8625_2022	3498	nonstructural protein NS2A	6313	A	G	5172	1140	0.18
+Denv1_8625_2022	3536	nonstructural protein NS2A	5889	G	A	4815	1070	0.18
+Denv1_8625_2022	3571	nonstructural protein NS2A	8000	C	T	6033	1932	0.24
+Denv1_8625_2022	3615	nonstructural protein NS2A	7998	C	T	5623	2368	0.30
+Denv1_8625_2022	3642	nonstructural protein NS2A	6518	T	C	4245	2268	0.35
+Denv1_8625_2022	3682	nonstructural protein NS2A	7937	T	C	5235	2696	0.34
+Denv1_8625_2022	3696	nonstructural protein NS2A	7942	C	T	5154	2781	0.35
+Denv1_8625_2022	3750	nonstructural protein NS2A	7568	G	A	4776	2786	0.37
+Denv1_8625_2022	3810	nonstructural protein NS2A	7842	C	T	5012	2819	0.36
+Denv1_8625_2022	3882	nonstructural protein NS2A	7810	T	C	4961	2846	0.36
+Denv1_8625_2022	3900	nonstructural protein NS2A	6154	G	A	3076	3076	0.50
+Denv1_8625_2022	3901	nonstructural protein NS2A	6154	T	C	3074	3070	0.50
+Denv1_8625_2022	3934	nonstructural protein NS2A	5915	T	C	3792	2118	0.36
+Denv1_8625_2022	4005	nonstructural protein NS2A	3438	A	G	1788	1650	0.48
+Denv1_8625_2022	4341	nonstructural protein NS2B	1583	T	C	859	724	0.46
+Denv1_8625_2022	4377	nonstructural protein NS2B	1695	G	A	1549	142	0.08
+Denv1_8625_2022	4380	nonstructural protein NS2B	1671	A	G	1109	554	0.33
+Denv1_8625_2022	4389	nonstructural protein NS2B	1569	G	A	1040	524	0.33
+Denv1_8625_2022	4392	nonstructural protein NS2B	1626	T	C	1071	553	0.34
+Denv1_8625_2022	4441	nonstructural protein NS2B	2666	A	G	2417	247	0.09
+Denv1_8625_2022	4473	nonstructural protein NS2B	2672	T	C	1973	693	0.26
+Denv1_8625_2022	4494	nonstructural protein NS2B	2632	A	G	1937	695	0.26
+Denv1_8625_2022	4593	nonstructural protein NS3	2549	C	G	1857	691	0.27
+Denv1_8625_2022	4632	nonstructural protein NS3	1992	T	G	1489	497	0.25
+Denv1_8625_2022	4635	nonstructural protein NS3	1988	C	T	1497	491	0.25
+Denv1_8625_2022	4653	nonstructural protein NS3	1589	C	T	1197	392	0.25
+Denv1_8625_2022	4671	nonstructural protein NS3	1246	C	T	880	366	0.29
+Denv1_8625_2022	4689	nonstructural protein NS3	714	G	A	609	104	0.15
+Denv1_8625_2022	4983	nonstructural protein NS3	993	T	C	825	168	0.17
+Denv1_8625_2022	5289	nonstructural protein NS3	1795	T	C	1586	208	0.12
+Denv1_8625_2022	5361	nonstructural protein NS3	1517	T	C	1409	108	0.07
+Denv1_8625_2022	5364	nonstructural protein NS3	1452	T	C	1068	383	0.26
+Denv1_8625_2022	5370	nonstructural protein NS3	908	T	C	518	388	0.43
+Denv1_8625_2022	5376	nonstructural protein NS3	1049	T	C	551	497	0.47
+Denv1_8625_2022	5415	nonstructural protein NS3	1262	C	T	634	625	0.50
+Denv1_8625_2022	5493	nonstructural protein NS3	1110	T	C	581	528	0.48
+Denv1_8625_2022	5529	nonstructural protein NS3	988	T	A	527	461	0.47
+Denv1_8625_2022	5553	nonstructural protein NS3	927	C	T	498	429	0.46
+Denv1_8625_2022	5556	nonstructural protein NS3	935	T	C	503	432	0.46
+Denv1_8625_2022	5559	nonstructural protein NS3	954	C	T	484	470	0.49
+Denv1_8625_2022	5568	nonstructural protein NS3	1024	T	C	521	503	0.49
+Denv1_8625_2022	5595	nonstructural protein NS3	1209	T	C	620	589	0.49
+Denv1_8625_2022	5661	nonstructural protein NS3	937	G	A	520	416	0.44
+Denv1_8625_2022	5682	nonstructural protein NS3	832	C	T	456	376	0.45
+Denv1_8625_2022	5709	nonstructural protein NS3	510	T	C	283	227	0.45
+Denv1_8625_2022	6313	nonstructural protein NS3	226	T	C	118	108	0.48
+Denv1_8625_2022	6411	nonstructural protein NS4A	7997	G	A	4353	3640	0.46
+Denv1_8625_2022	6441	nonstructural protein NS4A	7999	T	C	4315	3681	0.46
+Denv1_8625_2022	6450	nonstructural protein NS4A	7917	T	C	4300	3614	0.46
+Denv1_8625_2022	6543	nonstructural protein NS4A	7767	G	A	3948	3811	0.49
+Denv1_8625_2022	6544	nonstructural protein NS4A	7795	T	C	3915	3868	0.50
+Denv1_8625_2022	6564	nonstructural protein NS4A	6509	A	G	3437	3068	0.47
+Denv1_8625_2022	6600	nonstructural protein NS4A	7996	T	C	4231	3757	0.47
+Denv1_8625_2022	6615	nonstructural protein NS4A	7999	C	T	4199	3795	0.47
+Denv1_8625_2022	6630	nonstructural protein NS4A	7972	T	C	4227	3735	0.47
+Denv1_8625_2022	6654	nonstructural protein NS4A	7836	G	A	4245	3588	0.46
+Denv1_8625_2022	6658	nonstructural protein NS4A	7969	C	T	7559	401	0.05
+Denv1_8625_2022	6678	nonstructural protein NS4A	7138	C	T	3595	3536	0.50
+Denv1_8625_2022	6720	nonstructural protein NS4A	5056	A	G	2583	2472	0.49
+Denv1_8625_2022	6728	nonstructural protein NS4A	5418	A	G	3015	2395	0.44
+Denv1_8625_2022	6744	2K peptide	6774	G	A	4473	2287	0.34
+Denv1_8625_2022	6778	2K peptide	7220	T	C	5464	1749	0.24
+Denv1_8625_2022	6846	nonstructural protein NS4B	6985	G	A	6165	816	0.12
+Denv1_8625_2022	6857	nonstructural protein NS4B	6754	T	C	5965	788	0.12
+Denv1_8625_2022	6862	nonstructural protein NS4B	6498	A	G	5705	792	0.12
+Denv1_8625_2022	6885	nonstructural protein NS4B	5919	A	G	5255	660	0.11
+Denv1_8625_2022	6901	nonstructural protein NS4B	4042	C	T	3772	267	0.07
+Denv1_8625_2022	6905	nonstructural protein NS4B	3840	G	A	3256	582	0.15
+Denv1_8625_2022	6969	nonstructural protein NS4B	4794	C	T	4077	715	0.15
+Denv1_8625_2022	6993	nonstructural protein NS4B	4574	T	C	3899	666	0.15
+Denv1_8625_2022	7026	nonstructural protein NS4B	4208	T	C	3641	564	0.13
+Denv1_8625_2022	7077	nonstructural protein NS4B	1814	G	A	1558	256	0.14
+Denv1_8625_2022	7941	nonstructural protein NS5	692	G	A	551	141	0.20
+Denv1_8625_2022	8037	nonstructural protein NS5	745	A	G	625	120	0.16
+Denv1_8625_2022	8100	nonstructural protein NS5	2677	T	C	2134	540	0.20
+Denv1_8625_2022	8135	nonstructural protein NS5	4745	A	G	4318	425	0.09
+Denv1_8625_2022	8151	nonstructural protein NS5	4731	C	T	4483	245	0.05
+Denv1_8625_2022	8223	nonstructural protein NS5	7909	A	G	7504	397	0.05
+Denv1_8625_2022	8769	nonstructural protein NS5	661	A	G	332	329	0.50
+Denv1_8625_2022	8808	nonstructural protein NS5	843	T	C	486	357	0.42
+Denv1_8625_2022	8827	nonstructural protein NS5	952	C	G	583	369	0.39
+Denv1_8625_2022	8841	nonstructural protein NS5	908	C	T	755	152	0.17
+Denv1_8625_2022	8850	nonstructural protein NS5	958	C	T	785	171	0.18
+Denv1_8625_2022	8859	nonstructural protein NS5	1106	G	A	854	252	0.23
+Denv1_8625_2022	8889	nonstructural protein NS5	1070	C	T	793	277	0.26
+Denv1_8625_2022	8943	nonstructural protein NS5	1212	T	C	886	326	0.27
+Denv1_8625_2022	8952	nonstructural protein NS5	1233	A	-	949	282	0.23
+Denv1_8625_2022	9021	nonstructural protein NS5	1216	C	T	934	281	0.23
+Denv1_8625_2022	9084	nonstructural protein NS5	907	G	A	696	206	0.23
+Denv1_8625_2022	9111	nonstructural protein NS5	615	T	C	454	160	0.26
+Denv1_8625_2022	9126	nonstructural protein NS5	496	A	G	341	155	0.31
+Denv1_8625_2022	9135	nonstructural protein NS5	460	C	T	328	132	0.29
+Denv1_8625_2022	9462	nonstructural protein NS5	637	C	T	419	217	0.34
+Denv1_8625_2022	9469	nonstructural protein NS5	1026	G	A	892	134	0.13
+Denv1_8625_2022	9474	nonstructural protein NS5	2232	A	G	2020	212	0.09
+Denv1_8625_2022	9476	nonstructural protein NS5	2705	T	C	2393	312	0.12
+Denv1_8625_2022	9489	nonstructural protein NS5	4012	G	A	3102	909	0.23
+Denv1_8625_2022	9492	nonstructural protein NS5	4206	A	G	3258	947	0.23
+Denv1_8625_2022	9496	nonstructural protein NS5	5306	C	T	3925	1373	0.26
+Denv1_8625_2022	9504	nonstructural protein NS5	7329	T	C	3891	3433	0.47
+Denv1_8625_2022	9561	nonstructural protein NS5	8000	T	C	4289	3711	0.46
+Denv1_8625_2022	9574	nonstructural protein NS5	8001	G	A	4214	3785	0.47
+Denv1_8625_2022	9633	nonstructural protein NS5	7207	A	G	3778	3420	0.47
+Denv1_8625_2022	9639	nonstructural protein NS5	6362	A	G	3256	3104	0.49
+Denv1_8625_2022	9654	nonstructural protein NS5	5817	C	T	3082	2729	0.47
+Denv1_8625_2022	9672	nonstructural protein NS5	7951	C	T	4440	3506	0.44
+Denv1_8625_2022	9804	nonstructural protein NS5	7730	C	T	4421	3308	0.43
+Denv1_8625_2022	9868	nonstructural protein NS5	7663	T	C	4873	2779	0.36
+Denv1_8625_2022	9885	nonstructural protein NS5	7999	T	C	5421	2574	0.32
+Denv1_8625_2022	9888	nonstructural protein NS5	7972	T	C	5396	2575	0.32
+Denv1_8625_2022	9901	nonstructural protein NS5	7990	G	A	5353	2629	0.33
+Denv1_8625_2022	9906	nonstructural protein NS5	7965	C	T	5323	2636	0.33
+Denv1_8625_2022	9916	nonstructural protein NS5	8001	A	G	5406	2585	0.32
+Denv1_8625_2022	9921	nonstructural protein NS5	7664	T	C	5077	2581	0.34
+Denv1_8625_2022	9930	nonstructural protein NS5	7953	C	T	5170	2774	0.35
+Denv1_8625_2022	9993	nonstructural protein NS5	7961	G	A	5326	2630	0.33
+Denv1_8625_2022	10023	nonstructural protein NS5	7836	A	G	5343	2485	0.32
+Denv1_8625_2022	10068	nonstructural protein NS5	7991	G	A	5430	2555	0.32
+Denv1_8625_2022	10080	nonstructural protein NS5	7994	T	C	5320	2667	0.33
+Denv1_8625_2022	10096	nonstructural protein NS5	7402	C	T	4847	2545	0.34
+Denv1_8625_2022	10131	nonstructural protein NS5	6226	C	T	4253	1972	0.32
+Denv1_8625_2022	10164	nonstructural protein NS5	6052	A	G	4192	1858	0.31
+Denv1_8625_2022	10179	nonstructural protein NS5	5232	A	G	3582	1648	0.31
+Denv1_8625_2022	10186	nonstructural protein NS5	5120	C	T	3554	1562	0.31
+Denv1_8625_2022	10194	nonstructural protein NS5	4796	T	C	3443	1352	0.28
