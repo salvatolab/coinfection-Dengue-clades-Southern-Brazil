@@ -1,5 +1,7 @@
 # Coinfection by different Dengue clades in Southern Brazil
-Supplementary material and data used in the analysis of the manuscript entitlet "Simultaneous circulation and coinfection of Dengue clades and serotypes in Southern Brazil".
+Supplementary material and data used in the analysis of the manuscript entitlet "Simultaneous circulation and coinfection of Dengue virus serotypes and clades in Southern Brazil".
+
+See our preprint at https://www.biorxiv.org/content/10.1101/2024.02.24.581892v1.article-info
 
 DATA AND MATERIALS AVAILABILITY
 - Datasets from figures 1, figure 2A&B and supplementary figure 1A&B;
